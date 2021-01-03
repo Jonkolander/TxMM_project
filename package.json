@@ -7,7 +7,9 @@
     "dev": "node ./src/beerlabels.js",
     "untappd": "node ./src/untappd.js",
     "test": "jest",
-    "inspect": "node ./src/inspect.js"
+    "inspect": "node ./src/inspect.js",
+    "info": "node ./src/beerinfo.js",
+    "pictures": "node ./src/scrape_pictures.js"
   },
   "repository": {
     "type": "git",
