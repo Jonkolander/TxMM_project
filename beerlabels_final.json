@@ -8930,7 +8930,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Poppels%20American%20Pale%20Ale%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2533882,
     "checked": false,
     "name": "Prairie",
     "annotation": "Artisan Ales Era a Hoppy Farmhouse Ale",
@@ -8940,7 +8940,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Prairie%20Artisan%20Ales%20Era%2035cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2200817,
     "checked": false,
     "name": "Prairie",
     "annotation": "Artisan Ales Prison Rodeo Hoppy Coffee Ale",
@@ -8950,7 +8950,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Prairie%20Artisan%20Ales%20Prison%20Rodeo%2035cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 353315,
     "checked": false,
     "name": "Préaris",
     "annotation": "Quadrupel Belgian Dark Ale",
@@ -8960,7 +8960,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Pr%C3%A9aris%20Quadrupel%20Belgian%20Dark%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [72045],
+    "untappd_id": 72045,
     "checked": true,
     "name": "Primátor",
     "annotation": "13 Polotmavé",
@@ -8970,7 +8970,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Prim%C3%A1tor%2013%20Polotmav%C3%A9%2050cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 200674,
     "checked": false,
     "name": "Privatbräu Meissner Schwerter",
     "annotation": "St.Afra",
@@ -8980,17 +8980,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Privatbr%C3%A4u%20Meissner%20Schwerter%20St.Afra%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [139896],
-    "checked": true,
-    "name": "Propeller",
-    "annotation": "Nachtflug Imperial Stout",
-    "year": 2018,
-    "ABV": 9.1,
-    "brewery": "BOSCH GmbH & Co KG",
-    "label_url": "https://beerlabels.nl/index_htm_files/JPG/Propeller%20Nachtflug%20Imperial%20Stout%2033cl%202018.jpg"
-  },
-  {
-    "untappd_id": [139896],
+    "untappd_id": 139896,
     "checked": true,
     "name": "Propeller Bier",
     "annotation": "Nachtflug Imperial Stout",
@@ -9000,7 +8990,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Propeller%20Bier%20Nachtflug%20Imperial%20Stout%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1257396,
     "checked": false,
     "name": "P'Tit Granit",
     "annotation": "Formidable Porter artisanal",
@@ -9010,7 +9000,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/P'Tit%20Granit%20Formidable%20Porter%20Arisanal%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3136941,
     "checked": false,
     "name": "Pühaste",
     "annotation": "Beetbox Baltic Gose",
@@ -9020,7 +9010,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/P%C3%BChaste%20Beetbox%20Baltic%20Gose%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1590541,
     "checked": false,
     "name": "Puik",
     "annotation": "Blonde Donder Ondeugens lekker!",
@@ -9030,7 +9020,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Puik%20Blonde%20Donder%20Ondeugend%20lekker%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [313561],
+    "untappd_id": 313561,
     "checked": true,
     "name": "Pyraser",
     "annotation": "Rotbier",
@@ -9040,7 +9030,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Pyraser%20Rotbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [2099165, 3986348],
+    "untappd_id": 2099165,
     "checked": true,
     "name": "Pyynikin",
     "annotation": "Mosaic Lager",
@@ -9050,7 +9040,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Pyynikin%20Mosaic%20Lager%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [3997104],
+    "untappd_id": 3997104,
     "checked": true,
     "name": "Queen Flamingo Tropico Chic",
     "annotation": "Milkshake Pale Ale",
@@ -9060,7 +9050,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Queen%20Flamingo%20Tropico%20Chic%20Milkshake%20PAle%20Ale%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [9268],
+    "untappd_id": 9268,
     "checked": true,
     "name": "Quilmes",
     "annotation": "Argentina's favorite beer",
@@ -9070,7 +9060,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Quilmes%20Argentina's%20favorite%20beer%2034cl%202018.jpg"
   },
   {
-    "untappd_id": [20059],
+    "untappd_id": 20059,
     "checked": true,
     "name": "Quirinus",
     "annotation": "Dunkler Doppelbock",
@@ -9080,7 +9070,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Quirinus%20Dunkler%20Doppelbock%2050cl%202019.jpg"
   },
   {
-    "untappd_id": [770120],
+    "untappd_id": 770120,
     "checked": true,
     "name": "Radegast",
     "annotation": "Ryze 12 Hořká",
@@ -9090,7 +9080,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Radegast%20Ryze%2012%20Ho%C5%99k%C3%A1%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2041971,
     "checked": false,
     "name": "Raga",
     "annotation": "Sotu festival 2018 bier",
@@ -9100,7 +9090,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Raga%20Sotu%20festival%202018%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [847010],
+    "untappd_id": 847010,
     "checked": true,
     "name": "Ratsherrn",
     "annotation": "Coast Guard westküsten IPA",
@@ -9110,7 +9100,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ratsherrn%20Coast%20Guard%20Westk%C3%BCsten%20IPA%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2798940],
+    "untappd_id": 2798940,
     "checked": true,
     "name": "Ratsherrn",
     "annotation": "New Era dry hopped pilsener",
@@ -9120,7 +9110,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ratsherrn%20New%20era%20dry%20hopped%20pilsener%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2798946],
+    "untappd_id": 2798946,
     "checked": true,
     "name": "Ratsherrn",
     "annotation": "New era pilsener Pfeffersack",
@@ -9130,7 +9120,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ratsherrn%20new%20era%20pilsener%20Pferffersack%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 38055,
     "checked": false,
     "name": "Ravensborg Rød",
     "annotation": "Rund & Fyldig",
@@ -9140,7 +9130,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ravensborg%20R%C3%B8d%20und%20en%20Fyldig%2040cl%202018.jpg"
   },
   {
-    "untappd_id": [84132],
+    "untappd_id": 84132,
     "checked": true,
     "name": "Rebel Local",
     "annotation": "Piss off",
@@ -9150,7 +9140,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Rebel%20Local%20Piss%20off%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2212533,
     "checked": false,
     "name": "Rebel unchained",
     "annotation": "Raspberry milk Stout",
@@ -9160,7 +9150,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Rebel%20Unchained%20Raspberry%20milk%20Stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 17796,
     "checked": false,
     "name": "Red Horse",
     "annotation": "Beer extra strong brew",
@@ -9170,7 +9160,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Red%20Horse%20Beer%20extra%20strong%20brew%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3335104,
     "checked": false,
     "name": "Reserva",
     "annotation": "Malta & Lúpulo especialidades 1897",
@@ -9180,7 +9170,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Reserva%20Malta%20&%20L%C3%BApulo%20Especialidades%201897%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [81538, 4115489, 4014403, 3825805, 3881523],
+    "untappd_id": 81538,
     "checked": true,
     "name": "Reuz",
     "annotation": "Blond",
@@ -9190,7 +9180,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Reuz%20Blond%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2830892],
+    "untappd_id": 2830892,
     "checked": true,
     "name": "Riedenburger Brauhuas",
     "annotation": "Dolden Bock 2018",
@@ -9200,7 +9190,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Riedenburger%20Brauhaus%20Dolden%20Bock%202018%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [9198],
+    "untappd_id": 9198,
     "checked": true,
     "name": "Rodenbach",
     "annotation": "Classic red ale",
@@ -9210,7 +9200,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Rodenbach%20Classic%20Red%20Ale%2025cl%202019.jpg"
   },
   {
-    "untappd_id": [2440456],
+    "untappd_id": 2440456,
     "checked": true,
     "name": "Room 237",
     "annotation": "Tomato beer",
@@ -9220,7 +9210,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Room%20237%20Tomato%20beer%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1462083,
     "checked": false,
     "name": "Rothaus-Bräu",
     "annotation": "Schwarzwald Maidle",
@@ -9230,7 +9220,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Rothaus-Br%C3%A4u%20Schwarzwald%20Maidle%20vom%20Hochschwartzwald%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2495682,
     "checked": false,
     "name": "Rouge Ardenne",
     "annotation": "Sour beer",
@@ -9240,7 +9230,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Rouge%20Ardenne%20sour%20beer%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 304052,
     "checked": false,
     "name": "RSRV",
     "annotation": "Jessenhofke Réserva",
@@ -9250,7 +9240,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/RSRV%20Jessenhofke%20%C3%A9serva%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [451229],
+    "untappd_id": 451229,
     "checked": true,
     "name": "RuhrGold",
     "annotation": "Speciaal Pils",
@@ -9260,7 +9250,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ruhr%20Gold%20Speciaal%20pils%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2042965, 2628234],
+    "untappd_id": 2042965,
     "checked": true,
     "name": "Saarbrücker",
     "annotation": "Hell",
@@ -9270,7 +9260,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Saarbr%C3%BCcker%20hell%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [5101, 337236, 623551, 628551, 198275],
+    "untappd_id": 8955,
     "checked": true,
     "name": "Saigon",
     "annotation": "Export Bier",
@@ -9280,7 +9270,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Saigon%20Export%20Bier%2035cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2730991,
     "checked": false,
     "name": "Sainte Cru",
     "annotation": "King of Cool saison",
@@ -9290,7 +9280,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sainte%20Cru%20King%20of%20Cool%20saison%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [1889142, 3164381, 4028670, 544521, 1061103],
+    "untappd_id": 1889142,
     "checked": true,
     "name": "Saison Dupont",
     "annotation": "Cuvée dry hopping",
@@ -9300,7 +9290,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Saison%20Dupont%20Cuv%C3%A9e%20dry%20hopping%2038cl%202018.jpg"
   },
   {
-    "untappd_id": [2359823],
+    "untappd_id": 2359823,
     "checked": true,
     "name": "Sancti Adalberti",
     "annotation": "Miraculum Novum Abdijbock",
@@ -9310,7 +9300,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sancti%20Adalberti%20Miraculum%20Novum%20Abdijbier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [494080],
+    "untappd_id": 494080,
     "checked": true,
     "name": "Sancti Adalberti",
     "annotation": "Miraculum Novum Egmondse Blonde",
@@ -9320,7 +9310,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sancti%20Adalberti%20Abdijbier%20Egmonds%20Tripel%2033cl%202016.jpg"
   },
   {
-    "untappd_id": [520178, 3545246],
+    "untappd_id": 520178,
     "checked": true,
     "name": "Sancti Adalberti",
     "annotation": "Pastorale",
@@ -9330,7 +9320,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sancti%20Adalberti%20Pastorale%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [17584, 1839579],
+    "untappd_id": 1336,
     "checked": true,
     "name": "Santa",
     "annotation": "Dark night",
@@ -9340,7 +9330,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Santa%20Dark%20night%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [1310, 1153759, 3757840, 346114, 3269335],
+    "untappd_id": 1310,
     "checked": true,
     "name": "Saxo",
     "annotation": "Bière",
@@ -9350,7 +9340,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Saxo%20Bi%C3%A8re%20Blonde%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2215275],
+    "untappd_id": 2215275,
     "checked": true,
     "name": "Schalchner",
     "annotation": "Bonsai",
@@ -9360,7 +9350,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schalcher%20Bonsai%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [89619],
+    "untappd_id": 89619,
     "checked": true,
     "name": "Schanzenbräu",
     "annotation": "Rotbier",
@@ -9370,7 +9360,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schanzenbr%C3%A4u%20Rotbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [147755, 3795856, 2694904, 2949511],
+    "untappd_id": 147755,
     "checked": true,
     "name": "Scheldebrouwerij",
     "annotation": "Witheer witbier",
@@ -9380,7 +9370,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Scheldebrouwerij%20Witheer%20witbier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 37594,
     "checked": false,
     "name": "Schlappe-Seppel",
     "annotation": "Die Specialitát",
@@ -9390,7 +9380,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schlappe-Seppel%20Die%20Specialit%C3%A4t%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [71894, 423126, 2040302, 3320288],
+    "untappd_id": 71894,
     "checked": true,
     "name": "Schlappe-Seppel",
     "annotation": "Weissbier",
@@ -9400,7 +9390,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schlappe-Seppel%20Weissbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [1347489, 2993040, 3594670],
+    "untappd_id": 1347489,
     "checked": true,
     "name": "Schloßbräu Rheder",
     "annotation": "Original Pils",
@@ -9410,7 +9400,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schlo%C3%9Fbr%C3%A4u%20Rheder%20Original%20Pils%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [777068],
+    "untappd_id": 777068,
     "checked": true,
     "name": "Schneider",
     "annotation": "Infanterist Deifl Altbayerisches Rotbier",
@@ -9420,7 +9410,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schneider%20Infanterist%20Deifl%20Altbayerisches%20Rotbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [67996, 4094025],
+    "untappd_id": 67996,
     "checked": true,
     "name": "Schneider Weisse",
     "annotation": "Aventinus Eisbock Tap 09",
@@ -9430,7 +9420,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schneider%20Weisse%20Aventinus%20Eisbock%20Tap%2009%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [11982],
+    "untappd_id": 11982,
     "checked": true,
     "name": "Schneider Weisse",
     "annotation": "Tap 7 Unser Original",
@@ -9440,7 +9430,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schneider%20Weisse%20Tap7%20Unser%20Original%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [1856551, 3013159],
+    "untappd_id": 1856551,
     "checked": true,
     "name": "Schönramer",
     "annotation": "Weißbier Bock",
@@ -9450,7 +9440,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sch%C3%B6nramer%20Wei%C3%9Fbier%20Bock%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2823018,
     "checked": false,
     "name": "Schoolmelk",
     "annotation": "Passionfruit milkshake IPA",
@@ -9460,7 +9450,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schoolmelk%20Passionfruit%20milkshake%20IPA%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 311522,
     "checked": false,
     "name": "Schoppe Bräu Berlin",
     "annotation": "All I want for Xmas is Roggen Roll",
@@ -9470,7 +9460,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schoppe%20Br%C3%A4u%20Berlin%20All%20I%20want%20for%20Xmas%20is%20Roggen%20Roll%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 562811,
     "checked": false,
     "name": "Schoppe Bräu Berlin",
     "annotation": "Black Flag Imperial Stout",
@@ -9480,7 +9470,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schoppe%20Br%C3%A4u%20Berlin%20Black%20Flag%20Imperial%20Stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 332658,
     "checked": false,
     "name": "Schoppe Bräu Berlin",
     "annotation": "Holy Shit Ale",
@@ -9490,7 +9480,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schoppe%20Br%C3%A4u%20Berlin%20Holy%20Shit%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2496733,
     "checked": false,
     "name": "Schoppe Bräu Berlin",
     "annotation": "Juice New England IPA",
@@ -9500,7 +9490,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schoppe%20Br%C3%A4u%20Berlin%20Juice%20New%20England%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [20196, 1909810, 2377162, 2778288],
+    "untappd_id": 20196,
     "checked": true,
     "name": "Schumacher",
     "annotation": "Alt",
@@ -9510,7 +9500,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schumacher%20Alt%20100cl%202018.jpg"
   },
   {
-    "untappd_id": [95757, 1310692, 4085407, 4050150, 2422245],
+    "untappd_id": 95757,
     "checked": true,
     "name": "Schwaben Bräu",
     "annotation": "WeihnachtsBier",
@@ -9520,7 +9510,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schwaben%20Br%C3%A4u%20Weihnachtsbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [884499],
+    "untappd_id": 884499,
     "checked": true,
     "name": "Schwarz Bräu",
     "annotation": "Nussknacker Barley Wine",
@@ -9530,7 +9520,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schwarz%20Br%C3%A4u%20Nussknacker%20Barley%20Wine%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [189122, 1619879, 2210943, 2838840],
+    "untappd_id": 189122,
     "checked": true,
     "name": "Schwarzer Herzog",
     "annotation": "Schwarzbier",
@@ -9540,7 +9530,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Schwarzer%20Herzog%20Schwarzbier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2927795,
     "checked": false,
     "name": "Sheep Shot",
     "annotation": "DDH Imperial IPA",
@@ -9550,7 +9540,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sheep%20Shot%20DDH%20Imperial%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2978409],
+    "untappd_id": 2978409,
     "checked": true,
     "name": "Simian",
     "annotation": "Extra Stout",
@@ -9560,7 +9550,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Simian%20Extra%20Stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 6344,
     "checked": false,
     "name": "Singha",
     "annotation": "The original Thai beer",
@@ -9570,7 +9560,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Singha%20The%20original%20Thai%20beer%2062cl%202019.jpg"
   },
   {
-    "untappd_id": [2894615],
+    "untappd_id": 2894615,
     "checked": true,
     "name": "Slijterij van Enkhuizen",
     "annotation": "Bock",
@@ -9580,7 +9570,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Slijterij%20van%20Enkhuizen%20Bock%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [1468139, 3338518, 3006226, 3599972, 2984760],
+    "untappd_id": 1468139,
     "checked": true,
     "name": "Slot Oostende",
     "annotation": "Dubbel Slot",
@@ -9590,7 +9580,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Slot%20Oostende%20Dubbel%20Slot%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1468157,
     "checked": false,
     "name": "Slot Oostende",
     "annotation": "Gouden Gans Tripel uit Goes",
@@ -9600,7 +9590,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Slot%20Oostende%20Gouden%20Gans%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2137914,
     "checked": false,
     "name": "Slot Oostende",
     "annotation": "Poortwachter vanilla Porter uit Goes",
@@ -9610,7 +9600,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Slot%20Oostende%20Poortwachter%20vamilla%20Porter%20uit%20Goes%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1466184,
     "checked": false,
     "name": "Smaak",
     "annotation": "Edele Hert Amberbier",
@@ -9620,7 +9610,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Smaak%20Edele%20Hert%20Amberbier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1466191,
     "checked": false,
     "name": "Smaak",
     "annotation": "Zwarte Schaap Stout",
@@ -9630,7 +9620,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Smaak%20Zwarte%20Schaap%20Stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [5161, 1259212, 413649, 1558291, 1878452],
+    "untappd_id": 5161,
     "checked": true,
     "name": "Smuttynose",
     "annotation": "Robust Porter",
@@ -9640,7 +9630,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Smuttynose%20Robuust%20Porter%2035cl%202018.jpg"
   },
   {
-    "untappd_id": [1662312],
+    "untappd_id": 1662312,
     "checked": true,
     "name": "Soater",
     "annotation": "Baaier",
@@ -9650,7 +9640,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Soater%20Baaier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1599800, 3369137],
+    "untappd_id": 1599800,
     "checked": true,
     "name": "Solaes",
     "annotation": "Acht Gemeten",
@@ -9660,7 +9650,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Solaes%20Acht%20Gemeten%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1599888,
     "checked": false,
     "name": "Solaes",
     "annotation": "MD10 Imperial Stout",
@@ -9670,7 +9660,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Solaes%20MD10%20Imperial%20Stout%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1599771,
     "checked": false,
     "name": "Solaes",
     "annotation": "Twaalf Gemeten Barley wine",
@@ -9680,7 +9670,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Solaes%20Twaalf%20Gemeten%20Barley%20wine%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2002025],
+    "untappd_id": 2002025,
     "checked": true,
     "name": "Soproni",
     "annotation": "IPA Óvatos Duhaj",
@@ -9690,7 +9680,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Soproni%20IPA%20ovatus%20duhaj%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1091607,
     "checked": false,
     "name": "Sori Brewing",
     "annotation": "Coffee Gorilla baltic porter",
@@ -9700,7 +9690,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sori%20Brewing%20Coffee%20Gorilla%20Baltic%20Porter%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1194407,
     "checked": false,
     "name": "Sori Brewing",
     "annotation": "Dark Humor Club Coconut Imperial Stout",
@@ -9710,17 +9700,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sori%20Brewing%20Dark%20Humor%20Club%20Coconut%20Imperial%20Stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
-    "checked": false,
-    "name": "Sori Brewing",
-    "annotation": "Have you seen my lost letter Coffe infused Ale Letra",
-    "year": 2019,
-    "ABV": 5.2,
-    "brewery": "Sori Brewing",
-    "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sori%20Brewing%20Have%20you%20seen%20my%20Lost%20Letter%20LETRA%2033cl%202019.jpg"
-  },
-  {
-    "untappd_id": null,
+    "untappd_id": 2158680,
     "checked": false,
     "name": "Sörmüvek",
     "annotation": "Bojler I.P.A.",
@@ -9730,7 +9710,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/S%C3%B6rm%C3%BCvek%20Bojler%20I.P.A.%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2259954,
     "checked": false,
     "name": "Sörmüvek",
     "annotation": "Cekker Meggy",
@@ -9740,7 +9720,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/S%C3%B6rm%C3%BCvek%20Cekker%20Meggy%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2576446,
     "checked": false,
     "name": "Sour Sister",
     "annotation": "Sour Neipa",
@@ -9750,7 +9730,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sour%20Sister%20sour%20NEIPA%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [4010305, 1633, 3971841],
+    "untappd_id": 4010305,
     "checked": true,
     "name": "Spaten",
     "annotation": "Münchener Hell",
@@ -9760,7 +9740,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Spaten%20M%C3%BCnchener%20Hell%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [528045, 1431168, 2139812, 1298295, 2648416],
+    "untappd_id": 528045,
     "checked": true,
     "name": "Spencer",
     "annotation": "Trappist Ale",
@@ -9770,7 +9750,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Spencer%20Trappist%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2707451,
     "checked": false,
     "name": "Sport Zot",
     "annotation": "Alcoholvrij",
@@ -9780,7 +9760,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sport%20Zot%20alcoholvrij%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [24528, 1747674, 1240984, 2303473, 2844382],
+    "untappd_id": 24528,
     "checked": true,
     "name": "St Christoffel",
     "annotation": "Bock",
@@ -9790,7 +9770,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St%20Christoffel%20Bock%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [9379, 4115871, 1326055, 2855366, 2380757],
+    "untappd_id": 9379,
     "checked": true,
     "name": "St Feuillien",
     "annotation": "Cuvée de Noël",
@@ -9800,7 +9780,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St%20Feuillien%20Cuv%C3%A9e%20de%20No%C3%ABl%2075cl%202018.jpg"
   },
   {
-    "untappd_id": [75133, 549248, 2437100, 1936910, 2519267],
+    "untappd_id": 75133,
     "checked": true,
     "name": "St Feuillien",
     "annotation": "Grand Cru",
@@ -9810,7 +9790,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St%20Feuillien%20Grand%20Cru%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [481, 371, 168485, 2708835, 2254291],
+    "untappd_id": 481,
     "checked": true,
     "name": "St. Bernardus",
     "annotation": "Tripel",
@@ -9820,7 +9800,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St.%20Bernardus%20Tripel%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 524628,
     "checked": false,
     "name": "Steinburg",
     "annotation": "Negra Dark",
@@ -9830,7 +9810,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Steinburg%20Negra%20Dark%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [202132, 1031947],
+    "untappd_id": 202132,
     "checked": true,
     "name": "Steiner",
     "annotation": "Export",
@@ -9840,7 +9820,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Steiner%20Export%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [1063695],
+    "untappd_id": 1063695,
     "checked": true,
     "name": "Sternquell Bierbrause",
     "annotation": "Granatapfel",
@@ -9850,7 +9830,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sternquell%20Bierbrause%20Granatapfel%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [2017995],
+    "untappd_id": 2017995,
     "checked": true,
     "name": "Sternquell Bierbrause",
     "annotation": "Pink Grapefruit",
@@ -9860,7 +9840,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sternquell%20Bierbrause%20Pink%20Grapefruit%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [858232],
+    "untappd_id": 858232,
     "checked": true,
     "name": "Sternquell Bierbrause",
     "annotation": "Zitro",
@@ -9870,7 +9850,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sternquell%20Bierbrause%20Zitro%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [688606],
+    "untappd_id": 688606,
     "checked": true,
     "name": "Stiegl",
     "annotation": "Freibier",
@@ -9880,7 +9860,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Stiegl%20Freibier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3140631,
     "checked": false,
     "name": "Stigbergets",
     "annotation": "Brexodus IPA",
@@ -9890,7 +9870,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Stigbergets%20Brexodus%2044cl%202019.jpg"
   },
   {
-    "untappd_id": [205583, 2797759],
+    "untappd_id": 205583,
     "checked": true,
     "name": "Störtebeker",
     "annotation": "Atlantik-Ale",
@@ -9900,7 +9880,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St%C3%B6rtebeker%20Atlantik-Ale%2050cl%202019.jpg"
   },
   {
-    "untappd_id": [1423334],
+    "untappd_id": 1423334,
     "checked": true,
     "name": "Störtebeker",
     "annotation": "Baltik-Lager",
@@ -9910,7 +9890,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St%C3%B6rtebeker%20Baltik-Lager%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1862608, 2564133, 4115481, 4115398],
+    "untappd_id": 1862608,
     "checked": true,
     "name": "Störtebeker",
     "annotation": "Eis lager",
@@ -9920,7 +9900,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/St%C3%B6rtebeker%20Eis%20Lager%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [16482],
+    "untappd_id": 16482,
     "checked": true,
     "name": "Strong Suffolk",
     "annotation": "Dark Ale",
@@ -9930,7 +9910,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Strong%20Suffolk%20Dark%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1204058],
+    "untappd_id": 1204058,
     "checked": true,
     "name": "Sud No 1",
     "annotation": "Toxic Harvest Ale",
@@ -9940,7 +9920,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sud%20No%201%20Toxic%20harvest%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3067991,
     "checked": false,
     "name": "Sudden Death Brewing",
     "annotation": "Sir Baks-A-Lot NEIPA",
@@ -9950,7 +9930,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Sudden%20Death%20Brewing%20Sir%20Barks-a-lot%20NEIPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2433245,
     "checked": false,
     "name": "Super Cadix",
     "annotation": "Antwerpse dry hopped lager",
@@ -9960,7 +9940,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Super%20Cadix%20Antwerpse%20dry%20hopped%20Lager%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 225434,
     "checked": false,
     "name": "Svijany",
     "annotation": "11% Svijanský Máz 14. července 2018",
@@ -9970,7 +9950,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Svijany%2011%25%20Svijansk%C3%BD%20M%C3%A1z%2014.%20%C4%8Dervence%202018%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [3480281],
+    "untappd_id": 3480281,
     "checked": true,
     "name": "Swambacchus",
     "annotation": "Voor het bos",
@@ -9980,7 +9960,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Swambacchus%20Voor%20het%20bos%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [7053, 1424308, 1414175, 2132674, 3085418],
+    "untappd_id": 7053,
     "checked": true,
     "name": "SweetWater",
     "annotation": "IPA",
@@ -9990,7 +9970,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/SweetWater%20IPA%2035cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 282919,
     "checked": false,
     "name": "Szent András",
     "annotation": "Betyár Király Prémium kézműves sör",
@@ -10000,7 +9980,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Szent%20Andr%C3%A1s%20Bety%C3%A1r%20Kir%C3%A1ly%20Pr%C3%A9mium%20k%C3%A9zm%C5%B1ves%20s%C3%B6r%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1032874,
     "checked": false,
     "name": "Szent András",
     "annotation": "Magyar Vándor Prémium kézműves sör",
@@ -10010,7 +9990,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Szent%20Andr%C3%A1s%20Magyar%20V%C3%A1ndor%20Pr%C3%A9mium%20k%C3%A9zm%C5%B1ves%20s%C3%B6r%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2629808],
+    "untappd_id": 2629808,
     "checked": true,
     "name": "'t Mag",
     "annotation": "Tripel",
@@ -10020,7 +10000,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/'t%20Mag%20Tripel%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2408476,
     "checked": false,
     "name": "'t Mirakel",
     "annotation": "De Vondst Tripel",
@@ -10030,7 +10010,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/'t%20Mirakel%20De%20Vondst%20Tripel%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3691551,
     "checked": false,
     "name": "'t Mirakel",
     "annotation": "Het Verlangen Weizen",
@@ -10040,7 +10020,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/'t%20Mirakel%20Het%20Verlangen%20Weizen%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3153307,
     "checked": false,
     "name": "'t Mirakel",
     "annotation": "Lieve Vrouw Blond",
@@ -10050,7 +10030,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/'t%20Mirakel%20Lieve%20Vrouw%20Blond%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1565067,
     "checked": false,
     "name": "T.I.T.S.",
     "annotation": "Oops Have you seen the last beer, babe?",
@@ -10060,7 +10040,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/T.I.T.S%20Oops%20have%20you%20seen%20the%20last%20beer.%20Babe%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1772082,
     "checked": false,
     "name": "Tanker",
     "annotation": "Melody imperial stout",
@@ -10070,7 +10050,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tanker%20Melody%20imperial%20stout%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [1669687],
+    "untappd_id": 1669687,
     "checked": true,
     "name": "Tektonik's",
     "annotation": "Dizzy IPA Amerikana",
@@ -10080,7 +10060,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tektonik's%20Dizzy%20IPA%20Amerikana%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 65736,
     "checked": false,
     "name": "Tempelier",
     "annotation": "Goudkoperkleurig specialbier",
@@ -10090,7 +10070,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tempelier%2075cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2281732,
     "checked": false,
     "name": "Tempest Brewing Co",
     "annotation": "All the leaves are Brown. Imperial marple Brown Ale",
@@ -10100,7 +10080,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tempest%20Brewing%20Co%20All%20the%20leaves%20are%20Brown%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2646118,
     "checked": false,
     "name": "Tempest Brewing Co",
     "annotation": "Are Friends Electric? Botanical infised gose",
@@ -10110,7 +10090,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tempest%20Brewing%20Co%20Are%20friends%20electric%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [3727559],
+    "untappd_id": 3727559,
     "checked": true,
     "name": "Tempest Brewing Co",
     "annotation": "Granachan wee heavy",
@@ -10120,7 +10100,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tempest%20Brewing%20Co%20Granachan%20wee%20heavy%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [418111],
+    "untappd_id": 418111,
     "checked": true,
     "name": "Tennent's",
     "annotation": "Beer aged with whisky oak",
@@ -10130,7 +10110,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tennent's%20Beer%20aged%20with%20whisky%20oak%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [8290],
+    "untappd_id": 8290,
     "checked": true,
     "name": "Tennent's",
     "annotation": "Super Strong lager",
@@ -10140,7 +10120,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tennent's%20Super%20strong%20lager%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 589439,
     "checked": false,
     "name": "Tennent's",
     "annotation": "T Extra",
@@ -10150,7 +10130,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tennent's%20Extra%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2595269],
+    "untappd_id": 2595269,
     "checked": true,
     "name": "Texels",
     "annotation": "Seumerfeugel",
@@ -10160,7 +10140,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Texels%20Seumerfeugel%2030cl%202019.jpg"
   },
   {
-    "untappd_id": [675695, 3990693],
+    "untappd_id": 675695,
     "checked": true,
     "name": "Texels",
     "annotation": "Vuurbaak",
@@ -10170,7 +10150,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Texels%20Vuurbaak%2030cl%202018.jpg"
   },
   {
-    "untappd_id": [3776267, 48668, 3976125, 51549, 1180397],
+    "untappd_id": 48668,
     "checked": true,
     "name": "Texels",
     "annotation": "Wit",
@@ -10180,7 +10160,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Texels%20Wit%2030cl%202018.jpg"
   },
   {
-    "untappd_id": [1551454],
+    "untappd_id": 1551454,
     "checked": true,
     "name": "Th.König",
     "annotation": "Zwickl kellerbier",
@@ -10190,7 +10170,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Th.K%C3%B6nig%20Zwickle%20kellerbier%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [1433391],
+    "untappd_id": 1433391,
     "checked": true,
     "name": "The Crafty Brewing Comapny",
     "annotation": "Irish Pale Ale",
@@ -10200,7 +10180,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20Crafty%20Brewing%20Company%20Irish%20Pale%20Ale%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [886417, 1009035, 1007248],
+    "untappd_id": 886417,
     "checked": true,
     "name": "The Crafty Brewing Company",
     "annotation": "Irish Stout",
@@ -10210,7 +10190,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20Crafty%20Brewing%20Company%20Irish%20Stout%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1984560,
     "checked": false,
     "name": "The Duke of B#D#P#ST",
     "annotation": "New England style IPA",
@@ -10220,7 +10200,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20Duke%20of%20BDPST%20New%20England%20style%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2390636],
+    "untappd_id": 2390636,
     "checked": true,
     "name": "The Future Looks Bright Ale",
     "annotation": "Black India Pale Ale",
@@ -10230,7 +10210,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20future%20look%20bright%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [3536445],
+    "untappd_id": 3536445,
     "checked": true,
     "name": "The Musketeers",
     "annotation": "Antigoon Courageous WIPA",
@@ -10240,7 +10220,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20Musketeers%20Antigoon%20Courageous%20WIPA%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [2719558],
+    "untappd_id": 2719558,
     "checked": true,
     "name": "The Musketeers",
     "annotation": "Crowdsurf in a rubber dinghy",
@@ -10250,7 +10230,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20Musketeers%20Crowdsurf%20in%20a%20rubber%20dinghy%20Saison%2033cl%202019%20.jpg"
   },
   {
-    "untappd_id": [1480688, 3331626, 3756915],
+    "untappd_id": 1480688,
     "checked": true,
     "name": "The Musketeers",
     "annotation": "Jack's Precious IPA",
@@ -10260,7 +10240,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Jack's%20Precious%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2586531],
+    "untappd_id": 2586531,
     "checked": true,
     "name": "Thornbridge",
     "annotation": "Chocolate Coconut Porter",
@@ -10270,7 +10250,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Thornbridge%20Chocolate%20Coconut%20Porter%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [1066226, 3790573, 1572695, 2079878, 2646021],
+    "untappd_id": 1066226,
     "checked": true,
     "name": "Tilquin",
     "annotation": "Oude Mûre",
@@ -10280,7 +10260,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tilquin%20Oude%20M%C3%BBre%2038cl%202020.jpg"
   },
   {
-    "untappd_id": [135234],
+    "untappd_id": 135234,
     "checked": true,
     "name": "Tiny Rebel",
     "annotation": "Dirty Stop Out Oat Stout",
@@ -10290,7 +10270,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tiny%20Rebel%20Dirty%20Stop%20Out%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1407063,
     "checked": false,
     "name": "Tiny Rebel",
     "annotation": "Stay Puft Chocolate Marshmallow Porter",
@@ -10300,7 +10280,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tiny%20Rebel%20Stay%20Puft%20Chocolate%20Marshmallow%20Porter%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3730695,
     "checked": false,
     "name": "To Øl",
     "annotation": "A Little Goes A Long Way Micro IPA",
@@ -10310,17 +10290,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/To%20%C3%98l%20A%20Littke%20Goes%20A%20Long%20Way%20Mico%20IPA%2044cl%202020.jpg"
   },
   {
-    "untappd_id": [704794, 386689, 22245, 3682880, 1302574],
-    "checked": true,
-    "name": "To Øl",
-    "annotation": "India Pale Ale",
-    "year": 2020,
-    "ABV": 7.8,
-    "brewery": "BRUS",
-    "label_url": "https://beerlabels.nl/index_htm_files/JPG/To%20%C3%98l%20Entry%20Double%20India%20Pale%20Ale%2050cl%202020.jpg"
-  },
-  {
-    "untappd_id": [1797834],
+    "untappd_id": 1797834,
     "checked": true,
     "name": "To Øl",
     "annotation": "The Boss India Pale Ale",
@@ -10330,17 +10300,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/To%20%C3%98l%20The%20Boss%20India%20Pale%20Ale%2050cl%202020.jpg"
   },
   {
-    "untappd_id": [2906605, 94134],
-    "checked": true,
-    "name": "Tongerlo",
-    "annotation": "Christmas",
-    "year": 2018,
-    "ABV": 7,
-    "brewery": "Haacht",
-    "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tongerlo%20Christmas%2033cl%202018.jpg"
-  },
-  {
-    "untappd_id": [2906605],
+    "untappd_id": 2906605,
     "checked": true,
     "name": "Tongerlo",
     "annotation": "Kerst",
@@ -10350,7 +10310,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tongerlo%20Kerst%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [4717],
+    "untappd_id": 4717,
     "checked": true,
     "name": "Tongerlo",
     "annotation": "Lux Blond",
@@ -10360,7 +10320,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tongerlo%20lux%20Blond%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2226768,
     "checked": false,
     "name": "Tourtel",
     "annotation": "Twist Bière Tourtel Twist à la Pêche sans Alcool",
@@ -10370,7 +10330,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tourtel%20Twist%20Bi%C3%A8re%20Tourtel%20Twist%20%C3%A0%20la%20P%C3%AAche%20sans%20Alcool%2027cl%202019.jpg"
   },
   {
-    "untappd_id": [308493, 367206, 1168229],
+    "untappd_id": 308493,
     "checked": true,
     "name": "Traugott Simon",
     "annotation": "Alt",
@@ -10380,7 +10340,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Traugott%20Simon%20Alt%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [148068],
+    "untappd_id": 148068,
     "checked": true,
     "name": "Traugott Simon",
     "annotation": "Pilsener",
@@ -10390,7 +10350,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Traugott%20Simon%20Pilsener%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [569176],
+    "untappd_id": 569176,
     "checked": true,
     "name": "Traugott Simon",
     "annotation": "Schwarzbier",
@@ -10400,7 +10360,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Traugott%20Schwarzbier%2050cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1523231,
     "checked": false,
     "name": "Triporteur",
     "annotation": "Bling Bling Imperial King pimped Golden Ale",
@@ -10410,7 +10370,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Triporteur%20Bling%20Bling%20Imperial%20King%20Pimped%20Golden%20Ale%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [1255122],
+    "untappd_id": 1255122,
     "checked": true,
     "name": "Trois Chariots",
     "annotation": "Triple",
@@ -10420,7 +10380,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Trois%20Chariots%20Triple%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3038827,
     "checked": false,
     "name": "Tropicator",
     "annotation": "Banana",
@@ -10430,7 +10390,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tropicator%20banana%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2571660,
     "checked": false,
     "name": "Tsjerkebier",
     "annotation": "Alderling Dubbel",
@@ -10440,7 +10400,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tsjerkebier%20Alderling%20Dubbel%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2582032,
     "checked": false,
     "name": "Tsjerkebier",
     "annotation": "Lichte Preek Blond",
@@ -10450,7 +10410,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tsjerkebier%20Lichte%20Preek%20Blond%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [4050189, 4061809, 3904681, 468203, 2103129],
+    "untappd_id": 4050189,
     "checked": true,
     "name": "Tuborg",
     "annotation": "Skøll",
@@ -10460,7 +10420,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tuborg%20Sk%C3%B8ll%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [167522, 2882311, 3288900],
+    "untappd_id": 167522,
     "checked": true,
     "name": "Twents",
     "annotation": "Premium Pils",
@@ -10470,7 +10430,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Twents%20Premium%20Pils%2025cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2853881,
     "checked": false,
     "name": "Two Chefs Brewing",
     "annotation": "Billy Biscuit Bokkenpootjes Bock",
@@ -10480,7 +10440,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Two%20Chefs%20Brewing%20Billy%20Biscuit%20bokkenpootjes%20bock%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [718678],
+    "untappd_id": 718678,
     "checked": true,
     "name": "Two Chefs Brewing",
     "annotation": "Funky Falcon Pale Ale",
@@ -10490,7 +10450,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Two%20Chefs%20Brewing%20Funky%20Falcon%20Pale%20Ale%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [3754208, 3358986],
+    "untappd_id": 3754208,
     "checked": true,
     "name": "Two Chefs Brewing",
     "annotation": "Green Bullet India Pale Ale",
@@ -10500,7 +10460,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Two%20Chefs%20Brewing%20Green%20Bullet%20Indai%20Pale%20Ale%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [267725, 3750216, 4117266, 4089712],
+    "untappd_id": 267725,
     "checked": true,
     "name": "Tyris",
     "annotation": "Paquita Brown",
@@ -10510,7 +10470,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Tyris%20Paquita%20Brown%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2351819, 2683875],
+    "untappd_id": 2351819,
     "checked": true,
     "name": "Uddelaer",
     "annotation": "India Pale Ale",
@@ -10520,7 +10480,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Uddelaer%20India%20Pale%20Ale%2025cl%202019.jpg"
   },
   {
-    "untappd_id": [2683875],
+    "untappd_id": 2683875,
     "checked": true,
     "name": "Uddelaer",
     "annotation": "IPA 4.0",
@@ -10530,7 +10490,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Uddelaer%20IPA%204.0%2025cl%202019.jpg"
   },
   {
-    "untappd_id": [2644053],
+    "untappd_id": 2644053,
     "checked": true,
     "name": "Uddelaer",
     "annotation": "Pilsner",
@@ -10540,7 +10500,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Uddelaer%20Pilsner%2025cl%202019.jpg"
   },
   {
-    "untappd_id": [640572],
+    "untappd_id": 640572,
     "checked": true,
     "name": "Udens",
     "annotation": "Kersenbier",
@@ -10550,7 +10510,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Udens%20Kersenbier%2030cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 864,
     "checked": false,
     "name": "Uerige",
     "annotation": "DoppelSticke Altbier",
@@ -10560,7 +10520,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Uerige%20DoppelSticke%20Altbier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [7934, 88290, 88293, 88301, 88294],
+    "untappd_id": 7934,
     "checked": true,
     "name": "Unertl",
     "annotation": "Weißbier",
@@ -10570,7 +10530,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Unertl%20Wei%C3%9Fbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [819],
+    "untappd_id": 819,
     "checked": true,
     "name": "Urbock 23°",
     "annotation": "Pale double Bock",
@@ -10580,7 +10540,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Urbock%2023%C2%B0%20Pale%20double%20Bock%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [81767],
+    "untappd_id": 81767,
     "checked": true,
     "name": "Ur-Krostitzer",
     "annotation": "Feinherbes Pilsner",
@@ -10590,7 +10550,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ur-Krostitzer%20Feinherbes%20Pilsner%2050cl%202019.jpg"
   },
   {
-    "untappd_id": [31423],
+    "untappd_id": 31423,
     "checked": true,
     "name": "Ur-Krostitzer",
     "annotation": "Schwarzes",
@@ -10600,7 +10560,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Ur-Krostitzer%20Schwarzes%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2535825,
     "checked": false,
     "name": "v.Vollenhoven & Co",
     "annotation": "Falcon Pale Ale",
@@ -10610,7 +10570,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/v.Vollenhove%20&%20Co%20Falcon%20Ale%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [3385476],
+    "untappd_id": 3385476,
     "checked": true,
     "name": "Vagabond",
     "annotation": "Dapper Blond",
@@ -10620,7 +10580,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vagabond%20Dapper%20Blond%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [3385440],
+    "untappd_id": 3385440,
     "checked": true,
     "name": "Vagabond",
     "annotation": "Witte Woestaard",
@@ -10630,7 +10590,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vagabond%20Witte%20Woestaard%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [17546, 2743630, 1533726, 1722874],
+    "untappd_id": 17546,
     "checked": true,
     "name": "Valeir",
     "annotation": "Extra",
@@ -10640,7 +10600,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Valeir%20Extra%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 17546,
     "checked": false,
     "name": "Valeir",
     "annotation": "Extra 200 jaar",
@@ -10650,7 +10610,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Valeir%20Extra%20200%20jaar%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2039923],
+    "untappd_id": 2039923,
     "checked": true,
     "name": "Van Moll",
     "annotation": "Doerak India Pale Ale",
@@ -10660,7 +10620,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Van%20Moll%20Doerak%20India%20Pala%20Ale%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [2039926],
+    "untappd_id": 2039926,
     "checked": true,
     "name": "Van Moll",
     "annotation": "Langharig Tuig Hoppy Weizen",
@@ -10670,7 +10630,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Van%20Moll%20Langharig%20Tuig%20Hoppy%20Weizen%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2039931,
     "checked": false,
     "name": "Van Moll",
     "annotation": "Ons Blackie Imperial Stout",
@@ -10680,7 +10640,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Van%20Moll%20Ons%20Blackie%20Imperial%20Stout%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [1205331, 2924409],
+    "untappd_id": 1205331,
     "checked": true,
     "name": "VandeStreek",
     "annotation": "Black Bock",
@@ -10690,7 +10650,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/VandeStreek%20Black%20Bock%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [800308],
+    "untappd_id": 800308,
     "checked": true,
     "name": "VandeStreek",
     "annotation": "Hop Art IPA",
@@ -10700,7 +10660,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/VandeStreek%20Hop%20Art%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3543436,
     "checked": false,
     "name": "VandeStreek",
     "annotation": "Man Man Mango Blond",
@@ -10710,7 +10670,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/VandeStreek%20Man%20Man%20Mango%20Blond%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [149865],
+    "untappd_id": 149865,
     "checked": true,
     "name": "Vat No 13",
     "annotation": "Moriaentje",
@@ -10720,7 +10680,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vat%20No%2013%20Moriaentje%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2525907,
     "checked": false,
     "name": "Vedett",
     "annotation": "Extra Session IPA 2,7%",
@@ -10730,7 +10690,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vedett%20Extra%20Session%20IPA%202,7%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1496847],
+    "untappd_id": 1496847,
     "checked": true,
     "name": "Velkopopovický",
     "annotation": "Kozel Řezaný",
@@ -10740,7 +10700,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Velkopopovick%C3%BD%20Kozel%20%C5%98ezan%C3%BD%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [87363],
+    "untappd_id": 87363,
     "checked": true,
     "name": "Veltins",
     "annotation": "Pilsener 0,0%",
@@ -10750,7 +10710,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Veltins%20Pilsener%200.0%20alkoholfrei%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3030103,
     "checked": false,
     "name": "Vet & Lazy",
     "annotation": "Bean me up Scotty Porter",
@@ -10760,7 +10720,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vet%20&%20Lazy%20Bean%20me%20up%20Scotty%20Proter%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1855982,
     "checked": false,
     "name": "Vet & Lazy",
     "annotation": "Le Phallus Porter",
@@ -10770,7 +10730,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vet%20&%20Lazy%20Le%20Phallus%20Porter%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2370748,
     "checked": false,
     "name": "Veto",
     "annotation": "Lammbock dunkler bock",
@@ -10780,7 +10740,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Veto%20Lammbock%20dunkler%20bock%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2596549,
     "checked": false,
     "name": "Veto",
     "annotation": "Orangenfalter Belgisches wit",
@@ -10790,7 +10750,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Veto%20Orangenfalter%20Belgisches%20wit%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1343103,
     "checked": false,
     "name": "Veto",
     "annotation": "Schokobär schoko stout",
@@ -10800,7 +10760,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Veto%20Schokob%C3%A4r%20schoko%20Stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [269663, 2308643],
+    "untappd_id": 269663,
     "checked": true,
     "name": "Vezelay",
     "annotation": "Brune bio de Vezelay",
@@ -10810,7 +10770,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vezelay%20Brune%20Bio%20de%20Vezelay%2025cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 216683,
     "checked": false,
     "name": "Vibrant Forest",
     "annotation": "Citra single hop Pale Ale",
@@ -10820,7 +10780,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vibrant%20Forest%20Citra%20single%20hop%20Pale%20Ale%2044cl%202020.jpg"
   },
   {
-    "untappd_id": [173345, 2604629, 2047756, 2101925, 1897321],
+    "untappd_id": 173345,
     "checked": true,
     "name": "Vicaris",
     "annotation": "Tripel/Gueuze",
@@ -10830,7 +10790,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vicaris%20Tripel%20Gueuze%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [2920760],
+    "untappd_id": 2920760,
     "checked": true,
     "name": "Vicaris",
     "annotation": "Winter 2018",
@@ -10840,7 +10800,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vicaris%20Winter%202018%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 972795,
     "checked": false,
     "name": "Victory",
     "annotation": "Kirsch Gose sour cherry beer",
@@ -10850,7 +10810,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Victory%20Kirsch%20Gose%20sour%20cherry%20bier%2035cl%202018.jpg"
   },
   {
-    "untappd_id": [2664593],
+    "untappd_id": 2664593,
     "checked": true,
     "name": "Vieux Lille",
     "annotation": "Triple Brune",
@@ -10860,7 +10820,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vieux%20Lille%20Triple%20brune%2075cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 172638,
     "checked": false,
     "name": "Volendams",
     "annotation": "Ootje tripel",
@@ -10870,7 +10830,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Volendams%20Ootje%20tripel%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 242122,
     "checked": false,
     "name": "Volendams",
     "annotation": "Vølenbock Bock",
@@ -10880,7 +10840,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Volendams%20V%C3%B8lenbock%20Bock%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3117619,
     "checked": false,
     "name": "Volendams",
     "annotation": "Weizen hefeweizen",
@@ -10890,7 +10850,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Volendams%20Weizen%20Hefeweizen%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [2954486],
+    "untappd_id": 2954486,
     "checked": true,
     "name": "Voortsche Bieren",
     "annotation": "Voortsche Tripel",
@@ -10900,7 +10860,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Voortsche%20Bieren%20Voortsche%20Tripel%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [1370358],
+    "untappd_id": 1370358,
     "checked": true,
     "name": "Voortsche Bieren",
     "annotation": "Voortsche Vlier",
@@ -10910,7 +10870,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Voortsche%20Bieren%20Voortsche%20Vlier%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [1499309],
+    "untappd_id": 1499309,
     "checked": true,
     "name": "Voortsche Bieren",
     "annotation": "Voortsche Vorst",
@@ -10920,7 +10880,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Voortsche%20Bieren%20Voortsche%20Vorst%2033cl%202020.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 602025,
     "checked": false,
     "name": "Voreia",
     "annotation": "Pilsener Beer",
@@ -10930,7 +10890,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Voreia%20Pilsener%20Beer%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2641089],
+    "untappd_id": 2641089,
     "checked": true,
     "name": "Voreia",
     "annotation": "Wit Beer",
@@ -10940,7 +10900,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Voreia%20Wit%20Beer%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2468939],
+    "untappd_id": 2468939,
     "checked": true,
     "name": "Vuig Tuig",
     "annotation": "IPA",
@@ -10950,7 +10910,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vuig%20Tuig%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1036466],
+    "untappd_id": 1036466,
     "checked": true,
     "name": "Vulcaan",
     "annotation": "Mammoet",
@@ -10960,7 +10920,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Vulcaan%20Mammoet%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [695025],
+    "untappd_id": 695025,
     "checked": true,
     "name": "Wagner-Bräu Kemmern",
     "annotation": "Wagner Kuckuck",
@@ -10970,7 +10930,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wagner-Br%C3%A4u%20Kemmern%20Wagner%20Kuckuck%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [2437744],
+    "untappd_id": 2437744,
     "checked": true,
     "name": "Walhalla",
     "annotation": "Daemon #5 Wendigo black double IPA",
@@ -10980,7 +10940,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Walhalla%20Daemon%205%20Black%20double%20IPA%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3169348,
     "checked": false,
     "name": "Walhalla",
     "annotation": "Elixer III Neipa Azacca & El Dorado",
@@ -10990,7 +10950,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Walhalla%20Elixer%20III%20Neipa%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1695048, 2301552, 3447881, 3039870, 3991682],
+    "untappd_id": 1695048,
     "checked": true,
     "name": "Walhalla",
     "annotation": "Heimdall Imperial Rye Bock",
@@ -11000,7 +10960,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Walhalla%20Heimdall%20Imperial%20Rye%20Bock%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [319732, 647799],
+    "untappd_id": 319732,
     "checked": true,
     "name": "Warsteiner",
     "annotation": "Herb",
@@ -11010,7 +10970,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Warsteiner%20Herb%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [3128698],
+    "untappd_id": 3128698,
     "checked": true,
     "name": "Warsteiner",
     "annotation": "Summer Breeze",
@@ -11020,7 +10980,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Warsteiner%20Summer%20Breeze%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [825375, 1907599, 2878024, 1850762, 3598043],
+    "untappd_id": 825375,
     "checked": true,
     "name": "Warsteiner",
     "annotation": "Winter",
@@ -11030,7 +10990,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Warsteiner%20Winter%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2379473,
     "checked": false,
     "name": "Weihenstephaner",
     "annotation": "Braupakt Hefe Weissbier",
@@ -11040,7 +11000,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weihenstephaner%20Braupakt%20hefe%20weissbier%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [14435, 2383810],
+    "untappd_id": 14435,
     "checked": true,
     "name": "Weihenstephaner",
     "annotation": "Korbinian",
@@ -11050,7 +11010,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weihenstephaner%20Korbinian%2050cl%202019.jpg"
   },
   {
-    "untappd_id": [917303],
+    "untappd_id": 917303,
     "checked": true,
     "name": "Weiherer",
     "annotation": "Rauchbock",
@@ -11060,7 +11020,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weiherer%20Rauchbock%2050cl%202020.jpg"
   },
   {
-    "untappd_id": [1956962],
+    "untappd_id": 1956962,
     "checked": true,
     "name": "Weisse Elster",
     "annotation": "Citra Lager",
@@ -11070,7 +11030,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weisse%20Elster%20Citra%20Lager%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [1692698],
+    "untappd_id": 1692698,
     "checked": true,
     "name": "Weisse Elster",
     "annotation": "Pilsener",
@@ -11080,7 +11040,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weisse%20Elster%20Pilsener%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [90124],
+    "untappd_id": 90124,
     "checked": true,
     "name": "Weißenoher Klosterbrauerei",
     "annotation": "Altfränkisch Klosterbier",
@@ -11090,7 +11050,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wei%C3%9Fenoher%20Klosterbrauerei%20Altfr%C3%A4nkisch%20Klosterbier%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 17411,
     "checked": false,
     "name": "Weißenoher Klosterbrauerei",
     "annotation": "Bonator Doppelbock",
@@ -11100,7 +11060,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wei%C3%9Fenoher%20Klosterbrauerei%20Bonator%20Doppelbock%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [38128, 3480236, 2778461, 2466060, 3828501],
+    "untappd_id": 38128,
     "checked": true,
     "name": "Weltenburger Kloster",
     "annotation": "Asam Bock",
@@ -11110,7 +11070,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weltenburger%20Kloster%20Asam%20Bock%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [835, 4027285, 3516475],
+    "untappd_id": 835,
     "checked": true,
     "name": "Weltenburger Kloster",
     "annotation": "Winter-Traum",
@@ -11120,7 +11080,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Weltenburger%20Kloster%20Winter-Traum%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [2204959],
+    "untappd_id": 2204959,
     "checked": true,
     "name": "Wentersch",
     "annotation": "Aan de Tripel",
@@ -11130,7 +11090,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wentersch%20Aan%20de%20Tripel%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2165355],
+    "untappd_id": 2165355,
     "checked": true,
     "name": "Wentersch",
     "annotation": "Blondelle",
@@ -11140,7 +11100,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wentersch%20Blondelle%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2793089],
+    "untappd_id": 2793089,
     "checked": true,
     "name": "Wentersch",
     "annotation": "Gevloerd",
@@ -11150,7 +11110,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wentersch%20Gevloerd%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [282690, 719783, 392694, 809422, 493670],
+    "untappd_id": 719783,
     "checked": true,
     "name": "Westerwald",
     "annotation": "Bräu",
@@ -11160,7 +11120,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Westerwald%20Br%C3%A4u%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [31175],
+    "untappd_id": 31175,
     "checked": true,
     "name": "Westmalle",
     "annotation": "Trappist Extra",
@@ -11170,7 +11130,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Westmalle%20trappist%20Extra%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3468332,
     "checked": false,
     "name": "White Pony Brewery",
     "annotation": "X.M.A.S. Dark saison",
@@ -11180,7 +11140,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/White%20Pony%20Brewery%20X.M.A.S.%20Dark%20saison%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2974902, 2466673],
+    "untappd_id": 2974902,
     "checked": true,
     "name": "Whitefrontier",
     "annotation": "Foreign Extra Stout",
@@ -11190,7 +11150,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Whitefrontier%20Foreign%20Extra%20Stout%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [1944088],
+    "untappd_id": 1944088,
     "checked": true,
     "name": "Whitefrontier",
     "annotation": "FWT Citra Pale Ale",
@@ -11200,7 +11160,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Whitefrontier%20FWT%20Citra%20Pale%20Ale%2033cl%202019.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1657659,
     "checked": false,
     "name": "Whitefrontier",
     "annotation": "Log-out & Live American Pale Ale",
@@ -11210,7 +11170,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Whitefrontier%20Log-out%20&%20Live%20American%20Pale%20Ale%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [7599],
+    "untappd_id": 7599,
     "checked": true,
     "name": "Wieselburger Bier",
     "annotation": "Gold",
@@ -11220,7 +11180,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wieselburger%20Bier%20Gold%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [3865863],
+    "untappd_id": 3865863,
     "checked": true,
     "name": "Wildervanker",
     "annotation": "Rookbier",
@@ -11230,7 +11190,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wildervanker%20Rookbier%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [53620, 2962450, 1586668],
+    "untappd_id": 53620,
     "checked": true,
     "name": "Willemoes",
     "annotation": "Porter",
@@ -11240,7 +11200,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Willemoes%20Porter%2050cl%202020.jpg"
   },
   {
-    "untappd_id": [2580763],
+    "untappd_id": 2580763,
     "checked": true,
     "name": "Wittorfer Brauerei",
     "annotation": "GrillWurstWunder Maibock",
@@ -11250,7 +11210,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wittorfer%20Brauerei%20GrillWurstWunder%20Maibock%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2296937,
     "checked": false,
     "name": "WNTR",
     "annotation": "Jessenhofke réserve",
@@ -11260,7 +11220,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/WNTR%20Jessenhofke%20r%C3%A9serve%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [105700, 557738, 752300, 3307605, 2528526],
+    "untappd_id": 105700,
     "checked": true,
     "name": "Wolf",
     "annotation": "7",
@@ -11270,7 +11230,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wolf%207%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [117994, 3586779, 3618637, 3330534, 2218656],
+    "untappd_id": 3586779,
     "checked": true,
     "name": "Wolf",
     "annotation": "8",
@@ -11280,7 +11240,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wolf%208%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [2020311],
+    "untappd_id": 2020311,
     "checked": true,
     "name": "Wolfscraft",
     "annotation": "Viel Weizen",
@@ -11290,7 +11250,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wolfscraft%20Viel%20Weizen%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [92954],
+    "untappd_id": 92954,
     "checked": true,
     "name": "Wulle Biere",
     "annotation": "Vollbier hell",
@@ -11300,7 +11260,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Wulle%20Biere%20Vollbier%20hell%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2499428,
     "checked": false,
     "name": "Yankee & Kraut",
     "annotation": "Dionysos obergäriges Starkbier",
@@ -11310,7 +11270,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Yankee%20&%20Kraut%20Dionysos%2033cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 2798730,
     "checked": false,
     "name": "Yellowbelly Molloys",
     "annotation": "Cover operation Juicy Pale Ale",
@@ -11320,7 +11280,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Yellowbelly%20Molloys%20Covert%20Operation%20Juicey%20Pale%20Ale%2044cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 3100526,
     "checked": false,
     "name": "You Here",
     "annotation": "Flipa Citra DIPA",
@@ -11330,7 +11290,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/You%20Here%20Flipa%20Citra%20DIPA%2033cl%202019.jpg"
   },
   {
-    "untappd_id": [2678651],
+    "untappd_id": 2678651,
     "checked": true,
     "name": "Zeeuws Biergenot",
     "annotation": "Quadrupel",
@@ -11340,7 +11300,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Zeeuws%20Biergenot%20Quadrupel%2033cl%202020.jpg"
   },
   {
-    "untappd_id": [50],
+    "untappd_id": 50,
     "checked": true,
     "name": "Zinne Bir",
     "annotation": "The Brussels People's Ale",
@@ -11350,7 +11310,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Zinne%20Bir%20The%20Brussels%20people's%20Ale%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [14643],
+    "untappd_id": 14643,
     "checked": true,
     "name": "Zirndorfer",
     "annotation": "Kellerbier naturtrüb",
@@ -11360,7 +11320,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Zirndorfer%20Kellerbier%20naturtr%C3%BCb%2050cl%202018.jpg"
   },
   {
-    "untappd_id": null,
+    "untappd_id": 1147568,
     "checked": false,
     "name": "Zombräu",
     "annotation": "Motor oil 200% stout",
@@ -11370,7 +11330,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Zombr%C3%A4u%20Motor%20Oil%20100%25%20stout%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [101789],
+    "untappd_id": 101789,
     "checked": true,
     "name": "Zötler Bier",
     "annotation": "Hefeweizen hell",
@@ -11380,7 +11340,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Z%C3%B6tler%20Bier%20Hefeweizen%20hell%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [2810072, 3186792, 3687222, 2906102],
+    "untappd_id": 2810072,
     "checked": true,
     "name": "Zundert",
     "annotation": "10 Trappist",
@@ -11390,7 +11350,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Zundert%2010%20Trappist%2033cl%202018.jpg"
   },
   {
-    "untappd_id": [1192700],
+    "untappd_id": 1192700,
     "checked": true,
     "name": "Zwönitzer",
     "annotation": "Feieromd Bier Rotblondes",
@@ -11400,7 +11360,7 @@
     "label_url": "https://beerlabels.nl/index_htm_files/JPG/Zw%C3%B6nitzer%20Feieromd%20Bier%20Rotblondes%2050cl%202018.jpg"
   },
   {
-    "untappd_id": [1192311],
+    "untappd_id": 1192311,
     "checked": true,
     "name": "Zwönitzer",
     "annotation": "Stout",
