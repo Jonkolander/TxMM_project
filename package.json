@@ -1,0 +1,27 @@
+{
+  "name": "txmm_project",
+  "version": "1.0.0",
+  "description": "TxMM final project",
+  "main": "./src/beerlabels.js",
+  "scripts": {
+    "dev": "node ./src/beerlabels.js",
+    "untappd": "node ./src/untappd.js",
+    "test": "jest",
+    "inspect": "node ./src/inspect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonkolander/TxMM_project.git"
+  },
+  "author": "Dennis den Hollander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonkolander/TxMM_project/issues"
+  },
+  "homepage": "https://github.com/Jonkolander/TxMM_project#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "lodash": "^4.17.20",
+    "superagent": "^6.1.0"
+  }
+}
