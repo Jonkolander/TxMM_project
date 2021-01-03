@@ -10761,23 +10761,6 @@
     }
   },
   {
-    "name": "Jenlain",
-    "annotation": "Grand Cru",
-    "year": 2019,
-    "ABV": 8,
-    "brewery": "Duyck",
-    "label_url": "https://beerlabels.nl/index_htm_files/JPG/Jenlain%20Grand%20Cru%2033cl%202019.jpg",
-    "untappd": {
-      "id": 2550395,
-      "beer_name": "Jenlain Grand Cru",
-      "beer_brewery": "Brasserie Duyck",
-      "beer_style": "Farmhouse Ale - Bière de Garde",
-      "beer_rating": 3.28,
-      "beer_raters": 1527,
-      "beer_abv": 8
-    }
-  },
-  {
     "name": "Jever",
     "annotation": "Fun Pilsener alkoholfrei",
     "year": 2019,
@@ -17286,23 +17269,6 @@
       "beer_rating": 3.46,
       "beer_raters": 6083,
       "beer_abv": 6
-    }
-  },
-  {
-    "name": "The Musketeers",
-    "annotation": "Crowdsurf in a rubber dinghy",
-    "year": 2019,
-    "ABV": 6.5,
-    "brewery": "The Musketeers",
-    "label_url": "https://beerlabels.nl/index_htm_files/JPG/The%20Musketeers%20Crowdsurf%20in%20a%20rubber%20dinghy%20Saison%2033cl%202019%20.jpg",
-    "untappd": {
-      "id": 2719558,
-      "beer_name": "Crowdsurf In A Rubber Dinghy",
-      "beer_brewery": "Brouwerij The Musketeers",
-      "beer_style": "Farmhouse Ale - Saison",
-      "beer_rating": 3.38,
-      "beer_raters": 3907,
-      "beer_abv": 6.5
     }
   },
   {

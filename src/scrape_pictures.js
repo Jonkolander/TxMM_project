@@ -9,15 +9,27 @@ const beerlabels = require("../beerlabels_final.json");
     const {
       untappd: { id },
       label_url,
+      checked,
     } = beerlabels[index];
 
-    sleep(2000);
+    if (checked) {
+      continue;
+    }
 
-    console.log(
-      `${index + 1}/${beerlabels.length}: ${beerlabels[index].label_url}`
-    );
+    sleep(250);
 
-    const result = await request.get(label_url).send();
+    console.log(`${index + 1}/${beerlabels.length}`);
+
+    let result;
+    try {
+      result = await request.get(label_url).send();
+    } catch (error) {
+      console.log(`Cannot find: ${label_url}`);
+      continue;
+    }
+
     fs.writeFileSync(`./beer_labels/${id}.png`, result.body);
+    beerlabels[index].checked = true;
+    fs.writeFileSync("beerlabels_final.json", JSON.stringify(beerlabels));
   }
 })();
