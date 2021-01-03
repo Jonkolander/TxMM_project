@@ -32,7 +32,7 @@ const sleep = (milliseconds) => {
     const beer_name = $('div[class="name"]').find("h1").text();
     const beer_brewery = $('p[class="brewery"]').find("a").text();
     const beer_style = $('p[class="style"]').text();
-    const beer_abv = parseInt($('p[class="abv"]').text(), 10) || 0;
+    const beer_abv = parseFloat($('p[class="abv"]').text(), 10) || 0;
     const beer_rating = parseFloat(
       $('span[class="num"]').text().replace("(", "").replace(")", ""),
       10

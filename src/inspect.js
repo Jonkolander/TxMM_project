@@ -3,9 +3,7 @@ const fs = require("fs");
 
 (async () => {
   // placeholder
-  const filtered = beerlabels.sort(
-    (a, b) => b.untappd.beer_rating - a.untappd.beer_rating
-  );
+  const filtered = beerlabels.filter((e) => e.ABV !== e.untappd.beer_abv);
 
-  console.log(filtered.length);
+  console.log(filtered[0]);
 })();
