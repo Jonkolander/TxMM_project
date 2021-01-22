@@ -1,9 +1,14 @@
-const beerlabels = require("../beerlabels_final.json");
 const fs = require("fs");
+const _ = require("lodash");
+
+const beerlabels = require("../beerlabels.json");
 
 (async () => {
   // placeholder
-  const filtered = beerlabels.filter((e) => e.ABV !== e.untappd.beer_abv);
+  const filtered = beerlabels
+    .filter((e) => e.untappd.beer_style.includes("Stout - Imperial / Double"))
+    .map((e) => e.untappd.beer_rating);
 
-  console.log(filtered[0]);
+  console.log(filtered.length);
+  console.log(_.mean(filtered));
 })();

@@ -8,6 +8,7 @@
     "untappd": "node ./src/untappd.js",
     "test": "jest",
     "inspect": "node ./src/inspect.js",
+    "inspect2": "node ./src/inspect_analysis.js",
     "info": "node ./src/beerinfo.js",
     "pictures": "node ./src/scrape_pictures.js"
   },
